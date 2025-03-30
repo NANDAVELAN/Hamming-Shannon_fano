@@ -50,6 +50,9 @@ print(f"Variance: {var}")
 ```
 
 # Calculation:
+![image](https://github.com/user-attachments/assets/22d047eb-68f7-4bf8-b93c-9a556e0c9374)
+![image](https://github.com/user-attachments/assets/a9981745-5f50-4fa2-bf14-015661698ab1)
+![image](https://github.com/user-attachments/assets/397e8574-47fa-448e-9adc-721e23a1e8cf)
 
 
 
